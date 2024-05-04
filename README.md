@@ -4,7 +4,7 @@
 
 ## BackEnd
   - **Node.js**
-  - socket.io
+  - **socket.io**
   - Express
 
 ## FrontEnd
